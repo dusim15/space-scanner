@@ -1,0 +1,26 @@
+numpy
+tensorflow-cpu ##
+opencv-python
+openai
+google-generativeai
+spectral
+futures
+python-dotenv
+pillow
+matplotlib
+scikit-learn
+pandas
+open3d
+torch ##
+ultralytics ##
+scipy
+networkx
+pygame
+pyrealsense2 ##
+customtkinter
+SpeechRecognition
+PyYAML
+reportLab
+serial
+mediapipe ##
+filterpy
